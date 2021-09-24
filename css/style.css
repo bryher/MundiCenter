@@ -1,0 +1,22 @@
+.vertical{
+  display: none;
+}
+.contact{
+  border-radius: 15px;
+}
+@media (max-width:700px){
+  .horizontal{
+    display: none;
+  }
+  .vertical{
+    display: block;
+  /* }
+  .car-ver img {
+    max-height: 100vh;
+  } */
+}
+/* @media (max-width:500px){
+  .car-ver img {
+    max-height: 80vh;
+  }
+} */
